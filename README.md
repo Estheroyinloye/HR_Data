@@ -48,19 +48,16 @@ The report comprises of
 - Attrition by marital status
 - Attrition by Job role 
 
-#### Regional History
-![](11C282BA-CB08-4CE5-89FB-763170866BBC_1_201_a.jpeg)
-South showed the highest sales in both 2023 and 2024 while the west region indicated the least sales in both year.
 
-#### Product History
-![](3120E8E9-A1E9-4025-9DDF-8722EDEDA3A4_1_201_a.jpeg)
+![](1.png)
 
+![](2.png)
 
-#### Yearly History
-![](4E6F066C-ED6A-47B0-A7AD-72C7EF6FB919_1_201_a.jpeg)
+![](3.png)
 
-#### Customer History
-![](FCCE545F-32F3-437B-A71D-FE475100BC04_1_201_a.jpeg)
+![](4.png)
+
+![](5.png)
 
 
 ### From the dashboard we could discover the following insights;
