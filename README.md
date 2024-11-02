@@ -48,16 +48,15 @@ The report comprises of
 - Attrition by marital status
 - Attrition by Job role 
 
-
-![](1.png)
-
-![](2.png)
-
-![](3.png)
+![](5.png)
 
 ![](4.png)
 
-![](5.png)
+![](3.png)
+
+![](2.png)
+
+![](1.png)
 
 
 ### From the dashboard we could discover the following insights;
