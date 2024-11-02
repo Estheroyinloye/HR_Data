@@ -60,16 +60,22 @@ The report comprises of
 
 
 ### From the dashboard we could discover the following insights;
-1.	The West region significantly outperformed others in total sales, reaching $4.68 million, followed by the East at $2.45 million, the South at $1.95 million, and North trailing with $1.51 million.
-2.	In 2023, the South region led in sales, with West showing the least sales while the 2024 sales showed  South continued to lead, followed by East, with West again showing the lowest sales
-3.	In 2023, shirts had the highest sales among products, while hats struggled to gain traction. By 2024, we observed dips in jacket and sock sales, while hats and shoes saw an increase.
-4.	Comparing 2023 and 2024 quarterly trends, Q1 sales were higher in 2024, though both years experienced significant drops in Q2—more severe in 2023. While 2023 saw a rebound in Q3, 2024 continued to decline
-5.	Monthly sales trends indicate February as the peak sales month in both years, with April and July showing consistent dips
+1.	Out of 1,470 employees, 237 experienced attrition, representing approximately 16% of the workforce.
+2.	There exist a  strong link between job satisfaction level and attrition, where lower satisfaction is seen to have the highest attrition.
+3.	Job Level 1 had the highest attrition, with 143 employees leaving while the attrition rates decline significantly at higher job levels, with Job Levels 4 and 5 experiencing the least attrition (5 employees each).
+4.	Laboratory Technicians and Sales Executives showed the highest attrition counts,with a noticeable proportion of both males and females leaving these roles while the Research Directors and Managers experience the lowest attrition rates, indicating potentially higher job satisfaction or stability within these roles.
+5.	Attrition is highest among employees with a Life Sciences or Medical background, while Field like the Human Resources had e very low attrition rates.
+6.	The R&D department showed the highest attrition rate 56.1%, followed by Sales and HR having a relatively low attrition rate 5.1%, suggesting greater stability or satisfaction within this department.
+7.	Male employees account for 63.3% of the total attrition, while female employees make up 36.7%.
+8.	The age group 25-34 had the highest attrition, constituting 47.7% of the total with the attrition decreasing significantly in older age groups, with those aged 35-44 representing 21.9% and those over 55 making up only 3.4%.
 
 ### Conclusion
-The analysis highlights the dominance of the West region in sales and the strong performance of specific products during seasonal peaks. 2024 saw a broader decline in sales, particularly for jackets and socks. Seasonal demand cycles are also evident, with Q1 and Q3 favoring socks, shoes, and shirts, and Q2 and Q4 favoring hats, gloves, and jackets. !
+The data revealed that employee attrition is significantly influenced by job role, satisfaction level, job level, department, gender, and age. 
+Laboratory Technicians and Sales Executives exhibited the highest turnover, particularly among younger, entry-level employees with Life Sciences and Medical backgrounds. 
+Employees with low job satisfaction were more likely to leave, highlighting satisfaction as a critical factor. 
+The R&D and Sales departments experienced the highest attrition rates, with male employees showing a higher likelihood of departure compared to females. 
 
-
-
+### Reccommendation
+To reduce the attrition count, the organization could focus on enhancing job satisfaction in high-turnover departments like R&D and Sales and among entry-level employees. Additionally, the could implement targeted retention strategies for younger staff and provide clear career development paths, especially for roles with high turnover, such as Laboratory Technicians and Sales Executives.
 
 
