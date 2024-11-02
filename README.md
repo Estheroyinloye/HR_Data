@@ -37,7 +37,7 @@ Proper function was used to standardize the text
 
 
 ### Data Analysis and Visualization
-The report comprises of
+The report comprises;
 - Total Attrition count
 - Total Employee count
 - Attrition by Department
