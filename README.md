@@ -5,7 +5,7 @@
 
 ### Introduction
 This is a Microsoft Excel project on attrition analysis of an imaginary organization called **Premium Consultancy**. 
-The project is aimed at analysing and deriving insights to answer critical questions and help the orgnization make data driven decusions.
+The project is aimed at analysing and deriving insights to answer critical questions and help the orgnization make data driven decisions.
 **_Disclaimer_**: _All datasets and reports do not represent any company, institution or country but a dummy dataset to demonstrate the cabability of Microsoft  Excel._
 
 ### Problem Statement
